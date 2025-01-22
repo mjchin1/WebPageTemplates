@@ -123,14 +123,16 @@ button:focus-visible {
 }
 
 .square7 {
-  width: 12vw;
+  width: 16vw;
   height: 12vw;
-  margin-top: -14vw
+  margin-top: -14vw;
+  margin-right: -3vw;
+  
   
 }
 
 .square8 {
-  width: 28vw;
+  width: 30vw;
   
 }
 .square9 {
