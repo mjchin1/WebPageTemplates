@@ -66,3 +66,92 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.mosaicContainer {
+  border: solid;
+  width: 90vw;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.mosaicSquare {
+  border: solid;
+  width: 20vw;
+  height: 20vw;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px; 
+  margin-bottom: 10px;
+}
+
+.square1 {
+  width: 18vw;
+
+}
+
+.square2 {
+  width: 22vw;
+  height: 15vw;
+  
+}
+
+.square3 {
+  width: 16vw
+  
+}
+
+.square4 {
+  width: 24vw;
+  height: 35vw;
+  
+}
+
+.square5 {
+  width: 18vw;
+  height: 15vw;
+  margin-top: -14vw;
+
+}
+
+.square6 {
+  width: 22vw;
+  height: 25vw;
+  margin-top: -19vw;
+  
+}
+
+.square7 {
+  width: 12vw;
+  height: 12vw;
+  margin-top: -14vw
+  
+}
+
+.square8 {
+  width: 28vw;
+  
+}
+.square9 {
+  width: 18vw;
+
+}
+
+.square10 {
+  width: 22vw;
+  
+}
+
+.square11 {
+  width: 12vw
+  
+}
+
+.square12 {
+  width: 28vw;
+  
+}
+
+
+
