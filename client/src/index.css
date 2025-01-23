@@ -164,7 +164,7 @@ a {
 
 /*DESCENDING SCALE TEMPLATE*/
 
-.descendingScale1Container {
+.alternatingScaleContainer {
   border: solid;
   width: 90vw;
   display: flex;
@@ -173,72 +173,72 @@ a {
   margin: 0 auto;
 }
 
-.ds1Square1 {
+.asSquare1 {
   width: 40vw;
   height: 20vw;
 
 }
 
-.ds1Square2 {
+.asSquare2 {
   width: 25vw;
   height: 20vw;
   
 }
 
-.ds1Square3 {
+.asSquare3 {
   width: 15vw;
   height: 20vw;
   
 }
 
-.ds1Square4 {
+.asSquare4 {
   width: 15vw;
   height: 20vw;
   
 }
 
-.ds1Square5 {
+.asSquare5 {
   width: 25vw;
   height: 20vw;
   
 }
 
-.ds1Square6 {
+.asSquare6 {
   width: 40vw;
   height: 20vw;
   
 }
 
-.ds1Square7 {
+.asSquare7 {
   width: 40vw;
   height: 20vw;
   
 }
 
-.ds1Square8 {
+.asSquare8 {
   width: 25vw;
   height: 20vw;
   
 }
-.ds1Square9 {
+.asSquare9 {
   width: 15vw;
   height: 20vw;
 
 }
 
-.ds1Square10 {
+.asSquare10 {
   width: 15vw;
   height: 20vw;
   
 }
 
-.ds1Square11 {
+.asSquare11 {
   width: 25vw;
   height: 20vw;
   
 }
 
-.ds1Square12 {
+.asSquare12 {
   width: 40vw;
   height: 20vw;
 }
@@ -328,6 +328,92 @@ a {
   height: 20vw;
   
 }
+
+
+/*VERTICAL ALTERNATING SQUARES 1*/
+
+.vas1Container {
+  border: solid;
+  width: 90vw;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.vas1Square1 {
+  width: 40vw;
+  height: 20vw;
+
+}
+
+.vas1Square2 {
+  width: 25vw;
+  height: 20vw;
+  
+}
+
+.vas1Square3 {
+  width: 15vw;
+  height: 20vw;
+  
+}
+
+.vas1Square4 {
+  width: 84.5vw;
+  height: 20vw;
+  
+}
+
+.vas1Square5 {
+  width: 40vw;
+  height: 20vw;
+
+}
+
+.vas1Square6 {
+  width: 25vw;
+  height: 20vw;
+  
+}
+
+.vas1Square7 {
+  width: 15vw;
+  height: 20vw;
+  
+}
+
+.vas1Square8 {
+  width: 84.5vw;
+  height: 20vw;
+  
+}
+.vas1Square9 {
+  width: 40vw;
+  height: 20vw;
+
+}
+
+.vas1Square10 {
+  width: 25vw;
+  height: 20vw;
+  
+}
+
+.vas1Square11 {
+  width: 15vw;
+  height: 20vw;
+  
+}
+
+.vas1Square12 {
+  width: 84.5vw;
+  height: 20vw;
+  
+}
+
+
+
 
 
 
