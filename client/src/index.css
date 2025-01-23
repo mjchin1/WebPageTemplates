@@ -76,82 +76,83 @@ button:focus-visible {
   margin: 0 auto;
 }
 
-.mosaicSquare {
+.square {
   border: solid;
-  width: 20vw;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-top: 1vw; 
+  margin-bottom: 1vw;
+}
+
+.mosaicSquare1 {
+  width: 40vw;
   height: 20vw;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-top: 10px; 
-  margin-bottom: 10px;
-}
-
-.square1 {
-  width: 18vw;
 
 }
 
-.square2 {
-  width: 22vw;
-  height: 15vw;
-  
-}
-
-.square3 {
-  width: 16vw
-  
-}
-
-.square4 {
-  width: 24vw;
-  height: 35vw;
-  
-}
-
-.square5 {
-  width: 18vw;
-  height: 15vw;
-  margin-top: -14vw;
-
-}
-
-.square6 {
-  width: 22vw;
-  height: 25vw;
-  margin-top: -19vw;
-  
-}
-
-.square7 {
+.mosaicSquare2 {
   width: 16vw;
-  height: 12vw;
-  margin-top: -14vw;
-  margin-right: -3vw;
+  height: 20vw;
+  
+}
+
+.mosaicSquare3 {
+  width: 24vw;
+  height: 20vw;
+  
+}
+
+.mosaicSquare4 {
+  width: 22.5vw;
+  height: 20vw;
+  
+}
+
+.mosaicSquare5 {
+  width: 14vw;
+  height: 20vw;
+
+}
+
+.mosaicSquare6 {
+  width: 19vw;
+  height: 20vw;
+  
+}
+
+.mosaicSquare7 {
+  width: 22.5vw;
+  height: 20vw;
   
   
 }
 
-.square8 {
-  width: 30vw;
+.mosaicSquare8 {
+  width: 41vw;
+  height: 20vw;
   
 }
-.square9 {
-  width: 18vw;
+.mosaicSquare9 {
+  width: 41.5vw;
+  height: 20vw;
 
 }
 
-.square10 {
-  width: 22vw;
+.mosaicSquare10 {
+  width: 31vw;
+  height: 20vw;
   
 }
 
-.square11 {
-  width: 12vw
+.mosaicSquare11 {
+  width: 18.5vw;
+  height: 20vw;
   
 }
 
-.square12 {
-  width: 28vw;
+.mosaicSquare12 {
+  width: 31vw;
+  height: 20vw;
   
 }
 
