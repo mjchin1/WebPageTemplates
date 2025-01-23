@@ -2,16 +2,23 @@ import { useState } from 'react'
 import './App.css'
 import {Routes, Route} from 'react-router-dom'
 import MosaicPage from './Components/MosaicPage'
+import DescendingScalePage from './Components/DescendingScalePage'
+import Navigations from './Components/Navigations'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
 
   return (
     <>
+    <div>
+    <Navigations/>
     <Routes>
       <Route path='/' element={<MosaicPage/> } />
+      <Route path='/ds' element={<DescendingScalePage/> } />
     </Routes>
+
+    </div>
       
     </>
   )
