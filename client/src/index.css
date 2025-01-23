@@ -71,14 +71,6 @@ a {
   margin-left: 10px;
   margin-right: 10px;
 }
-.mosaicContainer {
-  border: solid;
-  width: 90vw;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin: 0 auto;
-}
 
 .square {
   border: solid;
@@ -86,6 +78,16 @@ a {
   margin-right: 1vw;
   margin-top: 1vw; 
   margin-bottom: 1vw;
+}
+
+/*MOSAIC TEMPLATE*/
+.mosaicContainer {
+  border: solid;
+  width: 90vw;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
 }
 
 .mosaicSquare1 {
@@ -156,6 +158,173 @@ a {
 
 .mosaicSquare12 {
   width: 31vw;
+  height: 20vw;
+  
+}
+
+/*DESCENDING SCALE TEMPLATE*/
+
+.descendingScale1Container {
+  border: solid;
+  width: 90vw;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.ds1Square1 {
+  width: 40vw;
+  height: 20vw;
+
+}
+
+.ds1Square2 {
+  width: 25vw;
+  height: 20vw;
+  
+}
+
+.ds1Square3 {
+  width: 15vw;
+  height: 20vw;
+  
+}
+
+.ds1Square4 {
+  width: 15vw;
+  height: 20vw;
+  
+}
+
+.ds1Square5 {
+  width: 25vw;
+  height: 20vw;
+  
+}
+
+.ds1Square6 {
+  width: 40vw;
+  height: 20vw;
+  
+}
+
+.ds1Square7 {
+  width: 40vw;
+  height: 20vw;
+  
+}
+
+.ds1Square8 {
+  width: 25vw;
+  height: 20vw;
+  
+}
+.ds1Square9 {
+  width: 15vw;
+  height: 20vw;
+
+}
+
+.ds1Square10 {
+  width: 15vw;
+  height: 20vw;
+  
+}
+
+.ds1Square11 {
+  width: 25vw;
+  height: 20vw;
+  
+}
+
+.ds1Square12 {
+  width: 40vw;
+  height: 20vw;
+}
+
+
+
+
+
+/*DESCENDING SCALE TEMPLATE 2*/
+
+.descendingScale2Container {
+  border: solid;
+  width: 90vw;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.ds2Square1 {
+  width: 40vw;
+  height: 20vw;
+
+}
+
+.ds2Square2 {
+  width: 25vw;
+  height: 20vw;
+  
+}
+
+.ds2Square3 {
+  width: 15vw;
+  height: 20vw;
+  
+}
+
+.ds2Square4 {
+  width: 84.5vw;
+  height: 20vw;
+  
+}
+
+.ds2Square5 {
+  width: 40vw;
+  height: 20vw;
+
+}
+
+.ds2Square6 {
+  width: 25vw;
+  height: 20vw;
+  
+}
+
+.ds2Square7 {
+  width: 15vw;
+  height: 20vw;
+  
+}
+
+.ds2Square8 {
+  width: 84.5vw;
+  height: 20vw;
+  
+}
+.ds2Square9 {
+  width: 40vw;
+  height: 20vw;
+
+}
+
+.ds2Square10 {
+  width: 25vw;
+  height: 20vw;
+  
+}
+
+.ds2Square11 {
+  width: 15vw;
+  height: 20vw;
+  
+}
+
+.ds2Square12 {
+  width: 84.5vw;
   height: 20vw;
   
 }

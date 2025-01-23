@@ -4,7 +4,8 @@ export default function Navigations() {
     return (
         <nav>
             <Link to = '/'>Mosaic</Link>
-            <Link to = '/ds'>Descending Scale</Link>
+            <Link to = '/ds1'>Descending Scale1</Link>
+            <Link to = '/ds2'>Descending Scale2</Link>
         </nav>
     );
 };
