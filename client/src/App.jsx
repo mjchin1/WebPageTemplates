@@ -3,7 +3,8 @@ import './App.css'
 import {Routes, Route} from 'react-router-dom'
 import MosaicPage from './Components/MosaicPage'
 import DescendingScalePage2 from './components/DescendingScalePage2'
-import DescendingScalePage1 from './components/DescendingScalePage1'
+import AlternatingScale from './components/AlternatingScale'
+import VerticalAlternatingSquares1 from './components/VerticalAlternatingSquares1'
 import Navigations from './Components/Navigations'
 
 function App() {
@@ -17,8 +18,8 @@ function App() {
     <Routes>
       <Route path='/' element={<MosaicPage/> } />
       <Route path='/ds2' element={<DescendingScalePage2/> } />
-      <Route path='/ds1' element={<DescendingScalePage1/> } />
-      <Route path='/ds1' element={<DescendingScalePage1/> } />
+      <Route path='/ds1' element={<AlternatingScale/> } />
+      <Route path='/ds1' element={<VerticalAlternatingSquares1/> } />
     </Routes>
 
     </div>

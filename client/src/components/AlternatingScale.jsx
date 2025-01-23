@@ -1,4 +1,4 @@
-export default function DescendingScalePage({}) {
+export default function AlternatingScale({}) {
 
 
 
