@@ -336,25 +336,26 @@ a {
   border: solid;
   width: 90vw;
   display: flex;
+  align-items: center;
   justify-content: center;
   flex-wrap: wrap;
   margin: 0 auto;
 }
 
 .vas1Square1 {
-  width: 40vw;
+  width: 20vw;
   height: 20vw;
 
 }
 
 .vas1Square2 {
-  width: 25vw;
+  width: 40vw;
   height: 20vw;
   
 }
 
 .vas1Square3 {
-  width: 15vw;
+  width: 20vw;
   height: 20vw;
   
 }
@@ -366,19 +367,18 @@ a {
 }
 
 .vas1Square5 {
-  width: 40vw;
+  width: 20vw;
   height: 20vw;
 
 }
 
 .vas1Square6 {
-  width: 25vw;
+  width: 40vw;
   height: 20vw;
-  
 }
 
 .vas1Square7 {
-  width: 15vw;
+  width: 20vw;
   height: 20vw;
   
 }
@@ -389,19 +389,19 @@ a {
   
 }
 .vas1Square9 {
-  width: 40vw;
+  width: 20vw;
   height: 20vw;
 
 }
 
 .vas1Square10 {
-  width: 25vw;
+  width: 40vw;
   height: 20vw;
   
 }
 
 .vas1Square11 {
-  width: 15vw;
+  width: 20vw;
   height: 20vw;
   
 }

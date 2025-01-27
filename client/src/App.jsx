@@ -18,8 +18,8 @@ function App() {
     <Routes>
       <Route path='/' element={<MosaicPage/> } />
       <Route path='/ds2' element={<DescendingScalePage2/> } />
-      <Route path='/ds1' element={<AlternatingScale/> } />
-      <Route path='/ds1' element={<VerticalAlternatingSquares1/> } />
+      <Route path='/as' element={<AlternatingScale/> } />
+      <Route path='/vas1' element={<VerticalAlternatingSquares1/> } />
     </Routes>
 
     </div>
