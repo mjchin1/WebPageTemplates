@@ -412,8 +412,58 @@ a {
   
 }
 
+/*Kaleidescope*/
+.kldsContainer {
+  border: solid;
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
 
+.kldsSquare1 {
+  width: 30vw;
+  height: 20vw;
+  border: none;
 
+}
 
+.kldsSquare2 {
+  width: 20vw;
+  height: 20vw;
+  
+}
 
+.kldsSquare3 {
+  width: 30vw;
+  height: 20vw;
+  border: none;
+  
+}
+
+.kldsSquare4 {
+  width: 20vw;
+  height: 20vw;
+  
+}
+
+.kldsSquare5 {
+  width: 30vw;
+  height: 30vw;
+ 
+
+}
+
+.kldsSquare6 {
+  width: 20vw;
+  height: 20vw;
+}
+
+.kldsSquare7 {
+  width: 20vw;
+  height: 20vw;
+  
+}
 

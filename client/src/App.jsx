@@ -6,6 +6,7 @@ import DescendingScalePage2 from './components/DescendingScalePage2'
 import AlternatingScale from './components/AlternatingScale'
 import VerticalAlternatingSquares1 from './components/VerticalAlternatingSquares1'
 import Navigations from './Components/Navigations'
+import Kaleidescope from './Components/Kaleidescope'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
       <Route path='/ds2' element={<DescendingScalePage2/> } />
       <Route path='/as' element={<AlternatingScale/> } />
       <Route path='/vas1' element={<VerticalAlternatingSquares1/> } />
+      <Route path='/klds' element={<Kaleidescope/> } />
     </Routes>
 
     </div>
