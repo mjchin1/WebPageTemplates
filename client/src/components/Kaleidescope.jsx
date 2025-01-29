@@ -6,6 +6,8 @@ export default function Kaleidescope({}) {
 
   return (
     <>
+
+    <h1>Website</h1>
     <div className="kldsContainer"> 
 
     <div className="kldsSquare1 square"></div>
