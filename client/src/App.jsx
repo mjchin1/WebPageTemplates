@@ -9,6 +9,10 @@ import HorizontalAlternatingSquares from './components/HorizontalAlternatingSqua
 import Navigations from './Components/Navigations'
 import Kaleidescope from './Components/Kaleidescope'
 import BigBox from './Components/BigBox'
+import BlockFrame from './Components/BlockFrame'
+import Booklet from './Components/Booklet'
+import TriFold from './Components/TriFold'
+import Mondrian from './Components/Mondrian'
 
 function App() {
 
@@ -26,6 +30,10 @@ function App() {
       <Route path='/has' element={<HorizontalAlternatingSquares/> } />
       <Route path='/klds' element={<Kaleidescope/> } />
       <Route path='/bb' element={<BigBox/> } />
+      <Route path='/bklt' element={<Booklet/> } />
+      <Route path='/bf' element={<BlockFrame/> } />
+      <Route path='/tf' element={<TriFold/> } />
+      <Route path='/mon' element={<Mondrian/> } />
     </Routes>
 
     </div>

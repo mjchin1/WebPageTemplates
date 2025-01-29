@@ -499,7 +499,7 @@ a {
 
 
 
-/*VERTICAL ALTERNATING SQUARES 1*/
+/*Big Box 1*/
 
 .bbContainer {
   border: solid;
@@ -514,31 +514,26 @@ a {
 .bbSquare1 {
   width: 100vw;
   height: 50vw;
-
 }
 
 .bbSquare2 {
   width: 47.75vw;
   height: 40vw;
-  
 }
 
 .bbSquare3 {
   width: 47.75vw;
   height: 40vw;
-  
 }
 
 .bbSquare4 {
   width: 47.75vw;
   height: 40vw;
-  
 }
 
 .bbSquare5 {
   width: 47.75vw;
   height: 40vw;
-
 }
 
 .bbSquare6 {
@@ -549,12 +544,177 @@ a {
 .bbSquare7 {
   width: 47.75vw;
   height: 40vw;
-  
 }
 
 .bbSquare8 {
   width: 100vw;
   height: 50vw;
+}
+
+
+
+/*BlockFrame*/
+.bfContainer {
+  border: solid;
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.bfSquare1 {
+  width: 20vw;
+  height: 20vw;
+  
+}
+
+.bfSquare2 {
+  width: 30vw;
+  height: 30vw;
+ 
 
 }
 
+.bfSquare3 {
+  width: 20vw;
+  height: 20vw;
+}
+
+/*Booklet*/
+.bkltSquare {
+  border: solid;
+  margin-top: 1vw; 
+  margin-bottom: 1vw;
+}
+.bkltContainer {
+  border: solid;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.bkltSquare1 {
+  width: 49vw;
+  height: 52vw;
+}
+
+.bkltSquare2 {
+  width: 49vw;
+  height: 52vw;
+}
+
+/*TriFold*/
+.tfContainer {
+  border: solid;
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.tfSquare1 {
+  width: 20vw;
+  height: 20vw;
+  
+}
+
+.tfSquare2 {
+  width: 30vw;
+  height: 30vw;
+ 
+
+}
+
+.tfSquare3 {
+  width: 20vw;
+  height: 20vw;
+}
+
+/*Mondrian*/
+
+.monContainer {
+  border: solid;
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.monSquare1 {
+  width: 20vw;
+  height: 20vw;
+
+}
+
+.monSquare2 {
+  width: 40vw;
+  height: 20vw;
+  
+}
+
+.monSquare3 {
+  width: 20vw;
+  height: 20vw;
+  
+}
+
+.monSquare4 {
+  width: 84.5vw;
+  height: 20vw;
+  
+}
+
+.monSquare5 {
+  width: 20vw;
+  height: 20vw;
+
+}
+
+.monSquare6 {
+  width: 40vw;
+  height: 20vw;
+}
+
+.monSquare7 {
+  width: 20vw;
+  height: 20vw;
+  
+}
+
+.monSquare8 {
+  width: 84.5vw;
+  height: 20vw;
+  
+}
+.monSquare9 {
+  width: 20vw;
+  height: 20vw;
+
+}
+
+.monSquare10 {
+  width: 40vw;
+  height: 20vw;
+  
+}
+
+.monSquare11 {
+  width: 20vw;
+  height: 20vw;
+  
+}
+
+.monSquare12 {
+  width: 84.5vw;
+  height: 20vw;
+  
+}
