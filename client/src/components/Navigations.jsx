@@ -9,6 +9,7 @@ export default function Navigations() {
             <Link to = '/vas1'>Vertical Alternating Squares1</Link>
             <Link to = '/has'>Horizontal Alternating Squares</Link>
             <Link to = '/klds'>Kaleidescope</Link>
+            <Link to = '/bb'>Big Box</Link>
         </nav>
     );
 };

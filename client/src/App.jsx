@@ -8,6 +8,7 @@ import VerticalAlternatingSquares1 from './components/VerticalAlternatingSquares
 import HorizontalAlternatingSquares from './components/HorizontalAlternatingSquares'
 import Navigations from './Components/Navigations'
 import Kaleidescope from './Components/Kaleidescope'
+import BigBox from './Components/BigBox'
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
       <Route path='/vas1' element={<VerticalAlternatingSquares1/> } />
       <Route path='/has' element={<HorizontalAlternatingSquares/> } />
       <Route path='/klds' element={<Kaleidescope/> } />
+      <Route path='/bb' element={<BigBox/> } />
     </Routes>
 
     </div>
