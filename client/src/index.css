@@ -643,83 +643,103 @@ a {
 }
 
 /*Mondrian*/
+.monSquare {
+  border: solid;
+}
 
 .monContainer {
   border: solid;
-  width: 90vw;
+  width: 100vw;
   display: flex;
-  align-items: center;
   justify-content: center;
   flex-wrap: wrap;
   margin: 0 auto;
 }
 
 .monSquare1 {
-  width: 20vw;
+  width: 10vw;
   height: 20vw;
 
 }
 
 .monSquare2 {
-  width: 40vw;
+  width: 25vw;
   height: 20vw;
   
 }
 
 .monSquare3 {
-  width: 20vw;
+  width: 15vw;
   height: 20vw;
   
 }
 
 .monSquare4 {
-  width: 84.5vw;
-  height: 20vw;
+  width: 40vw;
+  height: 40vw;
   
 }
 
 .monSquare5 {
   width: 20vw;
   height: 20vw;
+  margin-top: -20vw;
 
 }
 
 .monSquare6 {
-  width: 40vw;
+  width: 10vw;
   height: 20vw;
+  margin-top: -20vw;
 }
 
 .monSquare7 {
   width: 20vw;
   height: 20vw;
+  margin-top: -20vw;
   
 }
 
 .monSquare8 {
-  width: 84.5vw;
-  height: 20vw;
+  width: 40vw;
+  height: 15.5vw;
   
 }
 .monSquare9 {
-  width: 20vw;
-  height: 20vw;
-
+  width: 28.4vw;
+  height: 15.3vw;
+  margin-top: -15.5vw;
+  margin-left: -19vw;
 }
 
 .monSquare10 {
-  width: 40vw;
-  height: 20vw;
+  width: 22vw;
+  height: 15.3vw;
+  margin-top: -15.5vw;
+  margin-right:21vw;
   
 }
 
 .monSquare11 {
-  width: 20vw;
+  width: 32vw;
   height: 20vw;
+  margin-left: -20vw;
   
 }
 
 .monSquare12 {
-  width: 84.5vw;
+  width: 40vw;
+  height: 20vw;
+  
+}
+.monSquare13 {
+  width: 15vw;
+  height: 20vw;
+  
+}
+
+.monSquare14 {
+  width: 15vw;
   height: 20vw;
   
 }
