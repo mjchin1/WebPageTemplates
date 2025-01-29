@@ -556,7 +556,7 @@ a {
 /*BlockFrame*/
 .bfContainer {
   border: solid;
-  width: 90vw;
+  width: 100vw;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -565,14 +565,16 @@ a {
 }
 
 .bfSquare1 {
-  width: 20vw;
-  height: 20vw;
+  width: 90vw;
+  height: 30vw;
   
 }
 
 .bfSquare2 {
+  margin-top: -22.5vw;
   width: 30vw;
   height: 30vw;
+  background-color: white;
  
 
 }
